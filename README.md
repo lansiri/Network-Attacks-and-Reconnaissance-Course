@@ -16,6 +16,9 @@ This repository contains tasks, projects, and assignments completed during the c
 Each week we explore and practice a different aspect of offensive cybersecurity:
 
 - [H1 Sniff](h1.md) – Setup Linux in a VM, used Wireshark to capture and analyze network traffic, and reviewed packet-level behavior via TCP/IP model.
+- [H2 Favourite color: violet](h2.md) – Investigated how Nmap port scans leave traces in web server logs and network captures, learned to modify user agents and NSE scripts to reduce detectability.
+
+
 <!-- Future weeks (h2.md, h3.md...) can be added below as links when created -->
 
 ---
